@@ -10,7 +10,9 @@
 
 ## 💻 Programming Languages
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> VHDL <img src="https://img.icons8.com/color/48/000000/matlab.png"/> <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/matlab.png"/> <img src="https://img.icons8.com/color/48/000000/assembly.png"/> VHDL<sup>1</sup>
+
+<sup>1</sup> VHDL: VHSIC Hardware Description Language
 
 ## 💬 Connect with Me
 
@@ -34,5 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
