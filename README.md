@@ -10,12 +10,7 @@
 
 ## 💻 Programming Languages
 
-- C <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-- C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-- Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-- VHDL <img src="https://img.icons8.com/color/48/000000/vhdl.png"/>
-- MATLAB <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
-- MIPS Assembly <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/vhdl.png"/> <img src="https://img.icons8.com/color/48/000000/matlab.png"/> <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
 
 ## 💬 Connect with Me
 
@@ -39,6 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
