@@ -12,9 +12,9 @@
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/matlab.png"/></a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.icons8.com/color/48/000000/assembly.png"/></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language#MIPS_assembly_language" target="_blank"><img src="https://img.icons8.com/color/48/000000/assembly.png"/></a>
 <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" style="display:inline-block; margin-top:5px; font-size: larger;">VHDL<sup>1</sup></a>
 
 <sup>1</sup> VHDL: VHSIC Hardware Description Language
@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
