@@ -8,12 +8,14 @@
 
 🏋️ Outside the coding arena, you'll find me lifting weights in the gym, exploring new languages, diving into a good book, and cherishing moments with friends and family.
 
-## 📚 Expertise
+## 💻 Programming Languages
 
-- Computer Architecture
-- Hardware Coding
-- Embedded Systems
-- Digital Signals and Systems
+- C <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+- C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+- Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+- VHDL <img src="https://img.icons8.com/color/48/000000/vhdl.png"/>
+- MATLAB <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
+- MIPS Assembly <img src="https://img.icons8.com/color/48/000000/assembly.png"/>
 
 ## 💬 Connect with Me
 
@@ -37,3 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
