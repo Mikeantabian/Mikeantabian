@@ -1,12 +1,7 @@
 # Michael Antabian
 
-👋 Greetings! I'm Michael Antabian, a senior undergraduate student majoring in Computer Engineering. 🎓 My academic focus includes computer architecture, hardware coding, embedded systems, and digital signals and systems.
-
-💻 I enjoy working with microcontrollers and FPGAs to bring my projects to life. It's the thrill of creating something tangible from scratch that keeps me hooked on this journey.
-
-🛠️ Proficient in various programming languages, I'm navigating the final year of my undergraduate studies with a passion for making meaningful contributions to the tech space.
-
-🏋️ Outside the coding arena, you'll find me lifting weights in the gym, exploring new languages, diving into a good book, and cherishing moments with friends and family.
+Computer engineer with experience in embedded systems, computer architecture, DSP, and hardware-focused development.
+Interests include microcontrollers, FPGAs, and low-level system design.
 
 ## 💻 Programming Languages
 
