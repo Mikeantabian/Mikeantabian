@@ -20,8 +20,6 @@ Interests include microcontrollers, FPGAs, and low-level system design.
 - Email: [mikeantabian@gmail.com](mailto:you@example.com)
 - Website: [mikeantabian.com](https://mikeantabian.com/)
 
-Looking forward to the exciting journey ahead, where I hope to learn, build, and make a positive impact in the tech world! 💻✨
-
 
 <!--
 **Mikeantabian/Mikeantabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
